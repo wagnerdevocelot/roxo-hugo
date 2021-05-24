@@ -27,5 +27,3 @@ fields:
   - type: textarea
     name: quote
     label: quote
-pages:
-- data/testimonial.yml

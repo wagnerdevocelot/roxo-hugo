@@ -30,5 +30,3 @@ fields:
   - type: text
     name: instagram
     label: instagram
-pages:
-- data/team.yml
